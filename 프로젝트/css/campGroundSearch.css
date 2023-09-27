@@ -1,0 +1,72 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+#left {
+  /* background-color: #ccc; */
+  width: 400px;
+  float: left;
+}
+#right {
+  width: 600px;
+  float: left;
+  margin-top: 80px;
+}
+body {
+  margin: 30px;
+}
+
+input {
+  height: 40px;
+}
+button {
+  height: 40px;
+  width: 50px;
+  font-size: 0.7rem;
+  color: gray;
+}
+.gray {
+  color: gray;
+}
+.smaller {
+  font-size: smaller;
+}
+#totalCount {
+  color: blueviolet;
+  font-weight: bold;
+}
+ul {
+  margin-top: 20px;
+}
+li {
+  padding: 5px 0px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#facltNm {
+  margin-bottom: 5px;
+}
+#intro {
+  font-size: 0.8rem;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+#addr1 {
+  font-size: 0.8rem;
+  background-color: #888;
+  color: white;
+  padding-left: 10px;
+}
+#page {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #eee;
+}
+#hp{
+  color:blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
